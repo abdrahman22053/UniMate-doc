@@ -20,6 +20,7 @@
   - [🛠️ Technologies Used](#️-technologies-used)
     - [📱 Mobile](#-mobile-1)
     - [🖥️ Web](#️-web-1)
+  - [🚀 Deployment \& Availability](#-deployment--availability)
 
 ---
 
@@ -58,7 +59,7 @@ The mobile app is intended for students, providing them with easy access to esse
 
 ## 🖥️ Web Admin Interface
 
-The web interface is designed for administrators to efficiently manage the platform’s content and users.
+The web interface is designed for administrators to efficiently manage the platform's content and users.
 
 ### ✨ Key Features (Web)
 
@@ -116,15 +117,31 @@ The web interface is designed for administrators to efficiently manage the platf
 
 ### 📱 Mobile
 
-- **Framework**: Flutter  
-- **State Management**: BLoC / Provider  
-- **API**: Secure REST API
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=fff)](https://flutter.dev/)  
+[![BLoC](https://img.shields.io/badge/-BLoC-0175C2?logo=flutter&logoColor=fff)](https://bloclibrary.dev/)  
+[![Provider](https://img.shields.io/badge/-Provider-0175C2?logo=flutter&logoColor=fff)](https://pub.dev/packages/provider)  
+[![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?logo=postman&logoColor=fff)](https://restfulapi.net/)  
+[![OneSignal](https://img.shields.io/badge/-OneSignal-FF6C37?logo=onesignal&logoColor=fff)](https://onesignal.com/)
 
 ### 🖥️ Web
 
-- **Frontend**: Nuxt.js / Vue.js  
-- **Backend**: Django REST Framework  
-- **Database**: MySQL  
-- **Security**: JWT Authentication
+[![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=fff)](https://nuxt.com/)  
+[![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff)](https://vuejs.org/)  
+[![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff)](https://www.djangoproject.com/)  
+[![Django REST](https://img.shields.io/badge/-Django%20REST-092E20?logo=django&logoColor=fff)](https://www.django-rest-framework.org/)  
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)](https://www.mysql.com/)  
+[![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=fff)](https://jwt.io/)  
+[![WebSocket](https://img.shields.io/badge/-WebSocket-010101?logo=socket.io&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 
 ---
+
+## 🚀 Deployment & Availability
+
+
+**📱 Mobile App & 🖥️ Web Platform**  
+The UniMate application will be available online in the coming months, insha'Allah. We are currently completing final features and gathering data from various higher education institutions to provide a comprehensive and optimal experience for all students.
+
+---
+
+**🎯 Coming Soon - Stay Tuned!**  
+*UniMate: Empowering Students, Connecting Universities* 🎓
